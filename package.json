@@ -1,12 +1,27 @@
 {
-  "name": "xxxxxxxxxxxxxxxxxxxx",
-  "version": "1.0.0",
-  "description": "",
+  "name": "backbone-js-sample-app2",
+  "version": "0.0.1",
+  "description": "Backbone.js RESTful sample model #2.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Mamoru Hashimoto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S035779/backboneApp2.git"
+  },
+  "keywords": [
+    "backbone.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/S035779/backboneApp2/issues"
+  },
+  "homepage": "https://github.com/S035779/backboneApp2#readme"
 }
